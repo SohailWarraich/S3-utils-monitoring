@@ -20,7 +20,7 @@ Before running these scripts, make sure you have the following:
 Python 3.x installed.
 Boto3 library installed. You can install it using pip install boto3.
 Usage
-Clone the repository: git clone https://github.com/xohail-arshad/video-metadata-s3-utils.git
+Clone the repository: git clone https://github.com/SohailWarraich/video-metadata-s3-utils.git
 
 Install the required dependencies:
 
